@@ -38,13 +38,23 @@ export const Banner00DataSource = {
       <span>
         <span>
           <span>
-            <p>
-              <span>致力于开发ETH2第二层网络上的超级节点</span>
-              <br />
-            </p>
-            <p>
-              通过基于POS的验证方式让ETH整体网络实现0Gas和40万笔交易/S&nbsp;<br />
-            </p>
+            <span>
+              <p>
+                <span>致力于开发ETH2第二层网络上的超级节点</span>
+                <br />
+              </p>
+              <p>
+                通过基于POS的验证方式让ETH整体网络实现0Gas和40万笔交易/S&nbsp;<br />
+              </p>
+              <p>
+                <br />
+              </p>
+              <p>
+                #imToken#7068# 我们正在完善 ETH2POS 在 imToken
+                中的代币相关资料。完成后，大家可以在 imToken 里看到
+                logo，更方便地管理 ETH2POS，同时能看到更多代币信息。
+              </p>
+            </span>
           </span>
         </span>
       </span>
